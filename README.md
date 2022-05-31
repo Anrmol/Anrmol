@@ -1,16 +1,15 @@
-### Hi there 👋
+[![Antonio Ruz, I'm Software Developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20Software%20Developer&title=Antonio%20Ruz)](https://pimp-my-readme.webapp.io)
+---------------------------
+### Hola👋🏻, soy Antonio Ruz
+---------------------------
 
-<!--
-**Anrmol/Anrmol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy Antonio, actualmente no trabajo en ninguna empresa, soy estudiante y estoy formandome para pasar pronto a formar equipo con alguna empresa que quiera darme esa oportunidad, estoy deseando trabajar, pero creo que aún me quedan unas cuantas cosas por aprender para poder ofrecer la máxima calidad y eficiencia. Cuando esté listo lo sabréis.
 
-Here are some ideas to get you started:
+*   🌍  Soy de España
+*   🖥️  Mi portfolio sigue en construcción, tan pronto como esté disponible podrán acceder desde aquí.
+*   ✉️  Puedes contactar conmigo en: [antonioruz84@gmail.com](mailto:antonioruz84@gmail.com)
+*   🧠  Actualmente me encuentro aprendiendo Python, Java, React, Angular y NodeJS
+*   🚀  Me encuentro perfeccionando HTML, CSS, MySQL, JavaScript y MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![HTML_CSS_JavaScript_Python_Java_MySQL_MongoDB_ReactJS_NodeJS_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=HTML_CSS_JavaScript_Python_Java_MySQL_MongoDB_ReactJS_NodeJS_)](https://pimp-my-readme.webapp.io)
+
