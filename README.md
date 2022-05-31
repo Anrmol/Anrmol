@@ -1,6 +1,6 @@
 [![Antonio Ruz, I'm Software Developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20Software%20Developer&title=Antonio%20Ruz)](https://pimp-my-readme.webapp.io)
 ---------------------------
-### Hola👋🏻, soy Antonio Ruz
+### Hola👋🏻, soy Antonio Ruz 👨🏻‍💻
 ---------------------------
 
 Hola, soy Antonio, actualmente no trabajo en ninguna empresa, soy estudiante y estoy formandome para pasar pronto a formar equipo con alguna empresa que quiera darme esa oportunidad, estoy deseando trabajar, pero creo que aún me quedan unas cuantas cosas por aprender para poder ofrecer la máxima calidad y eficiencia. Cuando esté listo lo sabréis. 
